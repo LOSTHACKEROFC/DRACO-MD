@@ -3,8 +3,8 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md By Suhail
- * @author : SuhailTechInfo <https://github.com/SuhailTechInfo>
+ * @project_name : DRACO-MD BY CHIRAG YOUTUBER
+ * @author : CHIRAG YOUTUBER <https://youtube.com/@CHIRAGYOUTUBER>
  * @description : Secktor,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
@@ -39,7 +39,7 @@ cmd({
             let buttonMessaged = {
                 image: { url: 'https://secktorbot.onrender.com/' },
                 caption: `*_Scan Qr within 15 seconds_*\nYou'll get session id in your log number.`,
-                footer: ` Session bY >> Tᴇᴀᴍ Xʟɪᴄᴏɴ`,
+                footer: ` Session bY >> 𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍`,
                 headerType: 4,
                 contextInfo: {
                     externalAdReply: {
@@ -48,7 +48,7 @@ cmd({
                         thumbnail: log0,
                         mediaType: 2,
                         mediaUrl: `https://camo.githubusercontent.com/f026740d43de526846892cc5e38ef882f5fb484f2735e69e3659a8370ae638a8/68747470733a2f2f74656c656772612e70682f66696c652f3363333431383238643836656537613839633733662e6a7067`,
-                        sourceUrl: `WWW.YOUTUBE.COM/c/infinite9452`,
+                        sourceUrl: `WWW.YOUTUBE.COM/c/CHIRAGYOUTUBER`,
                     },
 
                 },
