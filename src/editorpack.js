@@ -1,7 +1,7 @@
 /**
 Credit for this Plugins goes to.
 * @author :  @n i z a m ®™
-* @modified by :  @SamPandey001
+* @modified by :  SamPandey001
 
 cmd({
     pattern: "editorpack",
