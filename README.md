@@ -1,41 +1,41 @@
 # XLICON-MD
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its XLICON-MD;Multi+Divice+Whatsapp+Bot;Developed+By+SALMAN AHMAD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its DRACO-MD;Multi+Divice+Whatsapp+Bot;Developed+By+CHIRAG YOUTUBER" alt="Typing SVG" /></a>
   
   
 <p align="center">
   <a href="">
     <img alt=Support height="300" src="https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"> 
     </p>
-    <h1 align="center">XLICON-1.O<br></h1>
+    <h1 align="center">DRACO<br></h1>
     
    </a>
 </p>
   
 <p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/XLICON-BOT-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/LOSTHACKEROFC"><img title="Author" src="https://img.shields.io/badge/DRACO-BOT-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/salmanytofficial?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-MD?&style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-MD?style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-MD?label=Watching&style=social"></a>
+<a href="https://github.com/LOSTHACKEROFC?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/LOSTHACKEROFC?label=Followers&style=social"></a>
+<a href="https://github.com/LOSTHACKEROFC/DRACO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LOSTHACKEROFC/DRACO-MD?&style=social"></a>
+<a href="https://github.com/LOSTHACKEROFC/DRACO-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/LOSTHACKEROFC/DRACO-MD?style=social"></a>
+<a href="https://github.com/LOSTHACKEROFC/DRACO-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LOSTHACKEROFC/DRACO-MD?label=Watching&style=social"></a>
 </p>
 
 ## `Notice`
 
-If you re-upload  anything from my [@Slasher](github.com/ahil15) ***REPOSITORY*** give me ***Credit*** Else I can Take Legal Action On You!⚠
+If you re-upload  anything from my [@Slasher](github.com/LOSTHACKEROFC) ***REPOSITORY*** give me ***Credit*** Else I can Take Legal Action On You!⚠
 
 ---
 
 ## `Announment` 🤫
 
-***XLICON-2.O*** is now Officially Announced ✨
+***DRACO-MD*** is now Officially Announced ✨
 
-<h1 align="center"> *XLICON-2.0*
+<h1 align="center"> *DRACO-MD*
 </h1>
 
-<p align="center"><a href="https://github.com/ahil15/Xlicon-v2"><img title="" src="https://img.shields.io/badge/XLICON%202.O-purple?style=for-the-badge&logo=github"></a>
+<p align="center"><a href="https://github.com/LOSTHACKEROFC/DRACO-MD"><img title="" src="https://img.shields.io/badge/XLICON%202.O-purple?style=for-the-badge&logo=github"></a>
 
 ---
 
@@ -44,15 +44,15 @@ If you re-upload  anything from my [@Slasher](github.com/ahil15) ***REPOSITORY**
 
 1. Fork the repo
     <br>
-<a href="https://github.com/salmanytofficial/XLICON-MD/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/LOSTHACKEROFC/DRACO-MD/fork"><img title="DRACO-MD" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
+2. Scan the QR and upload the `Session` to ***DRACO-MD-SECTION*** 
     <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-MD-QR-V5?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='[https://replit.com/@LOSTHACKEROFC/DRACO-MD-QR-V5#index.js]' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 3. Scan Qr
     <br>
-<a href='https://replit.com/@ahil15/XLICON-MD-QR-V4?v=1' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://replit.com/@LOSTHACKEROFC/DRACO-MD-QR-V5#index.js' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 
 ## `Features`
@@ -68,14 +68,14 @@ If you re-upload  anything from my [@Slasher](github.com/ahil15) ***REPOSITORY**
 
 ## `Support`
 
-For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
+For support, email [ losthackerofc@gmail.com ] or join our whatsapp group.
 
 
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/CM40sJKlj5sLuA8Y0Fmf1Fl" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/919536476115?text=Hi 🥰!! CHIRAG YOUTUBER Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
@@ -91,7 +91,7 @@ For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 
 
 ```
-mongodb+srv://salmanytofficial:s4salmanyt@cluster0.6wtgil3.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://LOSTHACKEROFC:CHIRAGYOUTUBER@cluster0.6wtgil3.mongodb.net/?retryWrites=true&w=majority
 ```
 
 | Parameter | Type     | Description                |
@@ -113,11 +113,11 @@ After this fill the vars by your own information and paste this JSON to your Rep
 ```
 {
   "SESSION_ID": "ID-Here",
-  "OWNER_NUMBER": "92xxxxxxxxxx",
-  "OWNER_NAME": "SalmanAhmad",
+  "OWNER_NUMBER": "91xxxxxxxxxx",
+  "OWNER_NAME": "CHIRAG YOUTUBER",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "required",
-  "PACK_INFO": "WABOT;Xlicon",
+  "PACK_INFO": "WABOT;DRACO",
   "PREFIX": "."
    
 }
@@ -136,11 +136,11 @@ Choose your repo
 
 
 3.Heroku Installation 
-[HEROKU Tutorial](https://youtu.be/hH2qZyUjuF4?si=vqpl-caoBSkpcVNH)
+[HEROKU Tutorial](https://youtube.com/@CHIRAGYOUTUBER)
 
 
 4.Deploy On Vps
-[Deploy on VPS or PC.](https://github.com/salmanytofficial/XLICON-MD/blob/main/deploy-on-vps.md)
+[Deploy on VPS or PC.](https://github.com/LOSTHACKEROFC/DRACO-MD)
 
 
   ........................................................
@@ -160,7 +160,7 @@ Choose your repo
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/salmanytofficial/XLICON-MD">
+    <a href="https://repl.it/github/LOSTHACKEROFC/DRACO-MD">
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
@@ -203,7 +203,7 @@ Choose your repo
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Xheikhsalman4444/XLICON-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/LOSTHACKEROFC/DRACO-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
@@ -226,7 +226,7 @@ Choose your repo
 </p>
 
 <p align="center" >
-    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/https://github.com/salmanytofficial/XLICON-MD&branch=main&build_command=npm%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]=https://telegra.ph/file/3c341828d86ee7a89c73f.jpg&env[email]=infiniteytff@gmail.com&env[global_url]=instagram.com/sla.sher_&env[FAKE_COUNTRY_CODE]=974&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=XLICON;MD&name=xliconuser000&env[KOYEB_NAME]=profilecorruptederror&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000">
+    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/https://github.com/LOSTHACKEROFC/DRACO-MD&branch=main&build_command=npm%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]=https://telegra.ph/file/3c341828d86ee7a89c73f.jpg&env[email]=LOSTHACKEROFC@gmail.com&env[global_url]=instagram.com/CHIRAG__BHATNAGAR&env[FAKE_COUNTRY_CODE]=974&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=DRACO;MD&name=DRACOuser000&env[KOYEB_NAME]=profilecorruptederror&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="170px" alt="Deploy on Koyeb" >
     </a>
 
@@ -346,15 +346,15 @@ Choose your repo
 
 <div align="center">
   
-| [![𝚂𝚊𝚕𝚖𝚊𝚗𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕](https://github.com/salmanytofficial.png?size=150)](https://github.com/salmanytofficial)|
+| [![CHIRAG YOUTUBER](https://github.com/LOSTHACKEROFC.png?size=150)](https://github.com/LOSTHACKEROFC)|
 |----|
-| [ 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 ](https://github.com/salmanytofficial) |
+| [ CHIRAG YOUTUBER  ](https://github.com/LOSTHACKEROFC) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
   
-| [![SlasherOfficial](https://github.com/ahil15.png?size=150)](https://github.com/ahil15) |
+| [![CHIRAG YOUTUBER](https://github.com/LOSTHACKEROFC.png?size=150)](https://github.com/LOSTHACKEROFC) |
 |----|
-| [ N ᴏ ᴛ   S ʟ ᴀ ꜱ ʜ ᴇ ʀ ](https://github.com/ahil15) |
+| [ 𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍 ](https://github.com/LOSTHACKEROFC) |
 |  Co.Owner , Bug Fixer, |
 
   </div>
@@ -377,16 +377,11 @@ Choose your repo
 <h1 align="left">  ✨Spacial Thanks To🎯
 </h1>
 
-* [`🎐 Sampandey`](https://github.com/SamPandey001) ***For Sector MD Base***
-* [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo) ***For Plugins and Debugging***
-* [`🎐 Abraham Dwamena`](https://github.com/abrahamdw882) ***For QR Ideas***
-* [`🎐 MR-KALINDU`](https://github.com/MR-KALINDU) ***For Fixing Plugins***
-* [`🎐 MAHER-ZUBAIR`](https://github.com/Maher-Zubair) ***For Fixing Errors***
-
+* [`🎐 CHIRAG YOUTUBER`](https://github.com/LOSTHACKEROFC) ***For Sector MD Base***
 ---
 
 </p>
-<h1 align="center"> Thanks To  SuhailTechInfo
+<h1 align="center"> Thanks To  𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍
 </h1>
 
  <br><br>
