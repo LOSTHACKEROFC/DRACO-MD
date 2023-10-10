@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/salmanytofficial/XLICON-MD
-      cd XLICON-MD
+      git clone https://github.com/LOSTHACKEROFC/DRACO-MD
+      cd DRACO-MD
       yarn install --network-concurrency 1
       ```
 
@@ -38,15 +38,15 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="92xxxxxxxxxx"
+      OWNER_NUMBER="91xxxxxxxxxx"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "Put Session Id Here"
       THUMB_IMAGE = "https://telegra.ph/file/8f6f537cc4103b48f3783.jpg"
       port = 5000
       email = "xxxxxxxxxxxxx@gmail.com"
-      global_url = "www.instagram.com/itz_shaikho/_"
-      OWNER_NAME = "SALMAN"
-      AUTO_REACTION = false
+      global_url = "www.instagram.com/CHIRAG__BHATNAGAR/_"
+      OWNER_NAME = "CHIRAG YOUTUBER"
+      AUTO_REACTION = true
       FAKE_COUNTRY_CODE = 354
       READ_MESSAGE = false
       PREFIX = .
@@ -57,7 +57,7 @@
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
       THEME= GOJO
       WORKTYPE = public
-      PACK_INFO = "XLICON MD;WA BOT"
+      PACK_INFO = "DRACO MD;WA BOT"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
