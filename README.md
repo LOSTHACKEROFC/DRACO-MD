@@ -44,11 +44,11 @@ If you re-upload  anything from my [@CHIRAG YOUTUBER](github.com/LOSTHACKEROFC) 
 
 1. Fork the repo
     <br>
-<a href="https://github.com/LOSTHACKEROFC/DRACO-MD/fork"><img title="DRACO-MD" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/LOSTHACKEROFC/DRACO-MD/fork"><img title="DRACO-MD" src="https://img.shields.io/badge/FORK DRACO-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan the QR and upload the `Session` to ***DRACO-MD-SECTION*** 
     <br>
-<a href='https://replit.com/@LOSTHACKEROFC/DRACO-MD-QR-V5#index.js' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://replit.com/@LOSTHACKEROFC/XLICON-MD-QR-V5#index.js' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 3. Scan Qr
     <br>
