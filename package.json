@@ -1,15 +1,15 @@
 {
-               "name": "xlicon-md",
+               "name": "Draco-md",
                "version": "0.0.8",
-               "description": "Multi device whatsapp bot by Samanytofficial.",
+               "description": "Multi device whatsapp bot by CHIRAG YOUTUBER.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
                "scripts": {
-                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name xlicon",
-                  "stop": "pm2 stop xlicon"
+                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name Draco-Md",
+                  "stop": "pm2 stop Draco-Md"
                },
-               "author": "salmanytofficial",
+               "author": "CHIRAGYOUTUBER",
                "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -69,10 +69,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/salmanytofficial/XLICON-MD.git"
+                 "url": "git+https://github.com/LOSTHACKEROFC/DRACO-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/salmanytofficial/XLICON-MD/issues"
+                 "url": "https://github.com/LOSTHACKEROFC/DRACO-MD/issues"
                   },
-                 "homepage": "https://github.com/salmanytofficial/XLICON-MD#readme"
+                 "homepage": "https://github.com/LOSTHACKEROFC/DRACO-MD#readme"
                   }
