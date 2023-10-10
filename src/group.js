@@ -3,8 +3,8 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Xlicon-MD
- * @author : salmanytofficial <https://github.com/salmanytofficial>
+ * @project_name : DRACO-MD
+ * @author : CHIRAG YOUTUBER <https://github.com/LOSTHACKEROFC>
  * @description : Xlicon,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
@@ -135,7 +135,7 @@ cmd({
     async(Void, citel, text) => {
         await Void.sendMessage(`${citel.chat}`, {
             image: log0,
-            caption: `*Group Name: Xlicon-Support*\n*Group Link:* https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk`,
+            caption: `*Group Name: DRACO-MD-Support*\n*Group Link:* https://chat.whatsapp.com/CM40sJKlj5sLuA8Y0Fmf1Fl`,
         });
 
     }
