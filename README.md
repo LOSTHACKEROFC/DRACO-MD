@@ -346,7 +346,7 @@ Choose your repo
 
 <div align="center">
   
-| [![CHIRAG YOUTUBER](https://www.youtube.com/channel/UCOYVQIN4SGwaKV2ukY5FgdA.png?size=150)](https://www.youtube.com/channel/UCOYVQIN4SGwaKV2ukY5FgdA)|
+| [![CHIRAG YOUTUBER](https://www.github.com/LOSTHACKEROFC.png?size=150)](https://www.github.com/LOSTHACKEROFC)|
 |----|
 | [ 𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍  ](https://www.youtube.com/channel/UCOYVQIN4SGwaKV2ukY5FgdA) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
