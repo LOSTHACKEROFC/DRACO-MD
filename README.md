@@ -24,7 +24,7 @@
 
 ## `Notice`
 
-If you re-upload  anything from my [@Slasher](github.com/LOSTHACKEROFC) ***REPOSITORY*** give me ***Credit*** Else I can Take Legal Action On You!⚠
+If you re-upload  anything from my [@CHIRAG YOUTUBER](github.com/LOSTHACKEROFC) ***REPOSITORY*** give me ***Credit*** Else I can Take Legal Action On You!⚠
 
 ---
 
